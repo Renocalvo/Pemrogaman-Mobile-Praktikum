@@ -8,9 +8,9 @@ _Sebuah repository untuk menyimpan perjalanan penugasan pemrograman mobile unive
 **Project Name:** Terasaga App
 
 **Description:**
-The Terasaga App is a mobile application developed using Flutter, designed to provide users with an intuitive and efficient experience in managing various tasks and resources. By leveraging the powerful GetX state management library, the app ensures smooth and reactive performance, making it easy to navigate and interact with the features.
+The Terasaga App is a mobile application developed using Flutter, specifically designed for avid readers who enjoy exploring novels. With an elegant interface and user-friendly navigation, this app provides a seamless reading experience, allowing users to discover, read, and manage their favorite novels effortlessly
 
-This app aims to facilitate task management, allowing users to create, update, and organize their tasks seamlessly. The clean and modern UI enhances user engagement, while the robust backend integration ensures data consistency and reliability.
+The aim of Terasaga App is to create a dedicated platform for novel enthusiasts to access a diverse collection of novels across various genres. Users can easily browse through the library, read chapters online, and bookmark their favorite novels for quick access. The app also supports features such as night mode for comfortable reading in low-light environments and personalized recommendations based on user preferences.
 
 **Technologies Used:**
 - [Flutter Official Website](https://flutter.dev): A UI toolkit for building natively compiled applications for mobile from a single codebase.
