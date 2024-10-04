@@ -2,7 +2,6 @@
 _"A repository to store the journey of mobile programming assignments at Muhammadiyah University of Malang."_<br>
 _Sebuah repository untuk menyimpan perjalanan penugasan pemrograman mobile universitas muhammadiyah malang_
 
-Here's a project description for the "Terasaga App":
 
 ---
 
